@@ -1,0 +1,4 @@
+com/example/studen_portal_MVC/StudenPortalMvcApplication.class
+com/example/studen_portal_MVC/entity/Student.class
+com/example/studen_portal_MVC/repository/StudentRepository.class
+com/example/studen_portal_MVC/service/StudentService.class
